@@ -6,7 +6,7 @@ _Looking for a shareable component template instead? Go here --> [sveltejs/compo
 
 # svelte app
 
-asdkjfalsdkf
+test test test
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
